@@ -1,0 +1,34 @@
+site_name: My Docs
+theme:
+  name: material
+  palette:
+    # Dark Mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
+      primary: green
+      accent: deep purple
+
+    # Light Mode
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Light mode
+      primary: blue
+      accent: deep orange
+  logo: assets/favicon-32x32.png
+  favicon: assets/favicon.ico
+  features:
+    - navigation.footer
+
+extra:
+    social:
+    - name: "Source Code"
+      link: "https://github.com/bairi/TfpdcDocsDemo"
+      icon: "fontawesome/brands/github"
+copyright: <a href="https://beian.miit.gov.cn/" target="_blank">京ICP备2022019212号</a>
+           <a href="https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802023122" target="_blank">
+                <img src="https://beian.miit.gov.cn/image/icp/1.png" alt="京公网安备 11010802023122号" />
+           </a>
+
