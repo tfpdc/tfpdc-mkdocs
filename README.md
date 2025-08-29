@@ -29,6 +29,23 @@ git push -u origin main
 
 然后把页面发布到github上面
 
+首先,我们先给项目建立一个文件夹,这里使用tfpdc-mkdocs,在 文件夹的菜单栏输入cmd进去终端,在终端中输入code .,打开vscode,
+在vscode中打开终端
+建立一个python虚拟空间
+`python -m venav tfpdc-mkdocs
+ python -m venv tfpdc-docs
+使用ls检查有没有同名文件夹生成,
+ .\tfpdc-docs\Scripts\activate打开虚拟环境
+pip install mkdocs-material 安装依赖
+
+现在我们把项目文件下载到本地
+
+启动git bash,(进去当前目录,右键点击 open git bash here)
+ 
+
+
+
 
 
 [def]: https://markdown.com.cn/
+
