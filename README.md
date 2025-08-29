@@ -7,4 +7,19 @@
 3.发现mkdocs-material后，把文件上传了到了github，现在的进度就是在研究怎么使用github同步项目。
 具体内容可以去看github.md
 
+更新的方法，本地先修改文件，然后保存
+运行
+`mkdocs build`
+生成文件
+`git add .
+git commit -m "更新" #更新修改成你的更改内容
+
+
+这里碰到一个warning：warning: in the working copy of 'site/404.html', LF will be replaced by CRLF the next time Git touches it
+解决方法：git.md
+
+## 推送到远程仓库的 main 分支（或其他分支）
+git push -u origin main
+
+
 [def]: https://markdown.com.cn/
