@@ -13,13 +13,15 @@
 [检测github是否正常连接][def5]   
 [使用ssh连接Git仓库（Github）][def6]   
 
+git name和email的问题
+
 3.创建github仓库
 4.初始化项目
 5.将项目上传到github
 6.配置github仓库
-7.配置github仓库的pages服务
-9.[Github添加README.md教程][def7]
-10.[将更新之后的github项目同步到本地][def8]
+7.配置github仓库的pages服务  
+8.[Github添加README.md教程][def7]  
+9.[将更新之后的github项目同步到本地][def8]
 
 
 
