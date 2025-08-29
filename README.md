@@ -21,5 +21,14 @@ git commit -m "更新" #更新修改成你的更改内容
 ## 推送到远程仓库的 main 分支（或其他分支）
 git push -u origin main
 
+本项目使用python版本的mkdocs-material搭建
+使用python3
+使用pip的python包管理器来安装
+
+使用Visual Studion Code来开发
+
+然后把页面发布到github上面
+
+
 
 [def]: https://markdown.com.cn/
