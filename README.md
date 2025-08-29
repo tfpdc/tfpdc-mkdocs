@@ -41,7 +41,13 @@ pip install mkdocs-material 安装依赖
 现在我们把项目文件下载到本地
 
 启动git bash,(进去当前目录,右键点击 open git bash here)
- 
+
+git clone https://github.com/tfpdc/tfpdc-mkdocs.git
+把远程文件下载到本地.
+
+更新文件后把本地文件打包 mkdocs build
+
+
 
 
 
